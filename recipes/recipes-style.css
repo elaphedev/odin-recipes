@@ -1,0 +1,23 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: navy;
+  color: white;
+}
+
+h1,
+h2 {
+  color: gold;
+}
+
+p {
+  width: 850px;
+}
+
+li {
+  width: 800px;
+}
+
+img {
+  width: 265px;
+  height: auto;
+}
